@@ -12,30 +12,16 @@
     "image_with_text_overlay_JrWVcw": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_LBQJCY": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_reGWMY": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_ELPhdm": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "text": "Protégez-vous des ondes électromagnétiques",
+            "heading_tag": "h5"
           }
         }
       },
       "block_order": [
-        "subheading_LBQJCY",
-        "heading_reGWMY",
-        "richtext_ELPhdm"
+        "heading_reGWMY"
       ],
       "settings": {
         "full_width": true,
@@ -671,7 +657,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "neuro-wave™-proguard-6pcs-stickers-anti-radiation",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
