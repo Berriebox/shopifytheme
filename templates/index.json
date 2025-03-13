@@ -40,10 +40,10 @@
     "logo_list_HmzKwL": {
       "type": "logo-list",
       "blocks": {
-        "logo_UC9fhR": {
+        "logo_kw7znF": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Sante-publique-France-logo_svg.png",
+            "logo": "shopify://shop_images/AFNR_Logo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -56,6 +56,14 @@
             "link": ""
           }
         },
+        "logo_UC9fhR": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Sante-publique-France-logo_svg.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
         "logo_TRfVjB": {
           "type": "logo",
           "settings": {
@@ -63,21 +71,13 @@
             "logo_width": 160,
             "link": ""
           }
-        },
-        "logo_kw7znF": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Logo-rvb-2048x916-1.png",
-            "logo_width": 120,
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "logo_UC9fhR",
+        "logo_kw7znF",
         "logo_ipaKpm",
-        "logo_TRfVjB",
-        "logo_kw7znF"
+        "logo_UC9fhR",
+        "logo_TRfVjB"
       ],
       "settings": {
         "full_width": true,
@@ -147,8 +147,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "title": "Résultat Avant/Après",
+        "content": "",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
