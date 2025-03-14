@@ -142,16 +142,16 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_JYNhRY": {
+    "rich_text_mhGQHg": {
       "type": "rich-text",
       "blocks": {
-        "subheading_3J6mwy": {
+        "subheading_qf4hXM": {
           "type": "subheading",
           "settings": {
             "text": ""
           }
         },
-        "heading_QmFnrd": {
+        "heading_PVjJnH": {
           "type": "heading",
           "settings": {
             "text": "Une technologie japonaise révolutionnaire",
@@ -160,13 +160,13 @@
             "gradient": ""
           }
         },
-        "richtext_gxqFhF": {
+        "richtext_z8JUd7": {
           "type": "richtext",
           "settings": {
             "content": ""
           }
         },
-        "image_AQqJk3": {
+        "image_3y9Qwr": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/beforeafterneurowave.webp",
@@ -177,10 +177,10 @@
         }
       },
       "block_order": [
-        "subheading_3J6mwy",
-        "heading_QmFnrd",
-        "richtext_gxqFhF",
-        "image_AQqJk3"
+        "subheading_qf4hXM",
+        "heading_PVjJnH",
+        "richtext_z8JUd7",
+        "image_3y9Qwr"
       ],
       "settings": {
         "full_width": true,
@@ -189,46 +189,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "multi_column_RNhmpN": {
-      "type": "multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Nos clients en parlent le mieux",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "before_after_image_3rVUH4": {
-      "type": "before-after-image",
-      "custom_css": [],
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "",
-        "content": "<p><a href=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\" title=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\"><strong>Découvrez pourquoi l'iPhone 12 est interdit en France à cause des ondes électromagnétiques. Lisez l'article complet sur TF1 pour en savoir plus</strong></a></p>",
-        "before_image": "shopify://shop_images/iphone-1eea48-7eb6d9-0_1x_c7350280-e40b-4972-8235-6a7e5cf421c2.png",
-        "after_image": "shopify://shop_images/iphone-1eea48-7eb6d9-0_1x_c7350280-e40b-4972-8235-6a7e5cf421c2.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "",
-        "after_text": "",
-        "drag_initial_position": 100,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
       }
     },
     "featured-product": {
@@ -283,7 +243,7 @@
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
@@ -308,7 +268,7 @@
         "product": "neuro-wave™-proguard-6pcs-stickers-anti-radiation",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_bottom",
-        "mobile_media_size": "contained",
+        "mobile_media_size": "expanded",
         "mobile_carousel_control": "floating_dots",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
@@ -321,59 +281,51 @@
         "input_text_color": ""
       }
     },
-    "multi_column_QQG3yT": {
-      "type": "multi-column",
+    "before_after_image_3rVUH4": {
+      "type": "before-after-image",
+      "custom_css": [],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "<p><a href=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\" title=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\"><strong>Découvrez pourquoi l'iPhone 12 est interdit en France à cause des ondes électromagnétiques. Lisez l'article complet sur TF1 pour en savoir plus</strong></a></p>",
+        "before_image": "shopify://shop_images/iphone-1eea48-7eb6d9-0_1x_c7350280-e40b-4972-8235-6a7e5cf421c2.png",
+        "after_image": "shopify://shop_images/iphone-1eea48-7eb6d9-0_1x_c7350280-e40b-4972-8235-6a7e5cf421c2.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "",
+        "after_text": "",
+        "drag_initial_position": 100,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "rich_text_JYNhRY": {
+      "type": "rich-text",
       "blocks": {
-        "item_3Af9PF": {
-          "type": "item",
+        "image_AQqJk3": {
+          "type": "image",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_QxLbAG": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_8PV77B": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "image": "shopify://shop_images/Le_crane_d_un_enfant_absorbe_10_fois_des_ondes_q_1.png",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
           }
         }
       },
       "block_order": [
-        "item_3Af9PF",
-        "item_QxLbAG",
-        "item_8PV77B"
+        "image_AQqJk3"
       ],
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -486,11 +438,10 @@
     "logo_list_HmzKwL",
     "rich_text_xdPkjy",
     "image_with_text_overlay_YFWQQj",
-    "rich_text_JYNhRY",
-    "multi_column_RNhmpN",
-    "before_after_image_3rVUH4",
+    "rich_text_mhGQHg",
     "featured-product",
-    "multi_column_QQG3yT",
+    "before_after_image_3rVUH4",
+    "rich_text_JYNhRY",
     "faq",
     "accordion_content_JjFQXd"
   ]

@@ -32,8 +32,12 @@
     "heading_font_size": "large",
     "heading_letter_spacing": -2,
     "text_font": "din_next_n4",
+    "currency_code_enabled": true,
     "show_page_transition": true,
     "heading_apparition": "split_fade",
+    "show_quick_buy": false,
+    "show_product_rating": false,
+    "discount_mode": "percentage",
     "product_color_display": "swatch",
     "product_info_alignment": "start",
     "cart_show_free_shipping_threshold": true,
@@ -139,5 +143,10 @@
       "product_color_display": "swatch",
       "product_info_alignment": "center"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".list-payment {display: flex; /* Alignement horizontal des éléments */ gap: 20px; /* Espacement entre les icônes */}"
+    ]
   }
 }
