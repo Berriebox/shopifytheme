@@ -34,7 +34,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 16
+        "overlay_opacity": 10
       }
     },
     "logo_list_HmzKwL": {
@@ -142,67 +142,111 @@
         "overlay_opacity": 0
       }
     },
-    "before-after-image": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Résultat Avant/Après",
-        "content": "",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
+    "rich_text_JYNhRY": {
+      "type": "rich-text",
       "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
+        "subheading_3J6mwy": {
+          "type": "subheading",
           "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
+            "text": ""
           }
         },
-        "1664424486a2b084ab-1": {
-          "type": "item",
+        "heading_QmFnrd": {
+          "type": "heading",
           "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "button_url": "",
-            "button_text": ""
+            "text": "Une technologie japonaise révolutionnaire",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_gxqFhF": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        },
+        "image_AQqJk3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/beforeafterneurowave.webp",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
           }
         }
       },
       "block_order": [
-        "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
+        "subheading_3J6mwy",
+        "heading_QmFnrd",
+        "richtext_gxqFhF",
+        "image_AQqJk3"
       ],
       "settings": {
         "full_width": true,
-        "images_layout": "scattered",
-        "collage_images_alignment": "middle",
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "text_color": ""
+      }
+    },
+    "multi_column_RNhmpN": {
+      "type": "multi-column",
+      "blocks": {
+        "item_f6wc7K": {
+          "type": "item",
+          "settings": {
+            "column_size": "2",
+            "title": "Column title",
+            "heading_tag": "h6",
+            "content": "<p>fjfe</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XYk69R": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4PV9KY": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_f6wc7K",
+        "item_XYk69R",
+        "item_4PV9KY"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "featured-product": {
@@ -293,6 +337,36 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "images_with_text_scrolling_jNTMjb": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_bzGXCj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/iphone-1eea48-7eb6d9-0_1x_c7350280-e40b-4972-8235-6a7e5cf421c2.png",
+            "icon": "none",
+            "icon_width": 52,
+            "title": "",
+            "content": "<p><a href=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\" title=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\">Découvrez pourquoi l'iPhone 12 est interdit en France à cause des ondes électromagnétiques. Lisez l'article complet sur TF1 pour en savoir plus</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_bzGXCj"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "feature-chart": {
@@ -469,9 +543,10 @@
     "logo_list_HmzKwL",
     "rich_text_xdPkjy",
     "image_with_text_overlay_YFWQQj",
-    "before-after-image",
-    "multiple-images-with-text",
+    "rich_text_JYNhRY",
+    "multi_column_RNhmpN",
     "featured-product",
+    "images_with_text_scrolling_jNTMjb",
     "feature-chart",
     "faq"
   ]
