@@ -146,7 +146,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".list-payment {display: flex; /* Alignement horizontal des éléments */ gap: 20px; /* Espacement entre les icônes */}"
+      ".list-payment {display: flex; /* Alignement horizontal des éléments */ gap: 8px; /* Espacement entre les icônes */}"
     ]
   }
 }
