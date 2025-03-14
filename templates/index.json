@@ -95,6 +95,35 @@
         "logo_item_border": ""
       }
     },
+    "press_DHkMMq": {
+      "type": "press",
+      "blocks": {
+        "quote_bBdxfj": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Rejoignez nos clients satisfaits et découvrez pourquoi ils nous attribuent une note parfaite ! Votre expérience compte pour nous.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_bBdxfj"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "rich_text_xdPkjy": {
       "type": "rich-text",
       "blocks": {
@@ -122,7 +151,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": ""
       }
@@ -480,6 +509,7 @@
   "order": [
     "image_with_text_overlay_JrWVcw",
     "logo_list_HmzKwL",
+    "press_DHkMMq",
     "rich_text_xdPkjy",
     "image_with_text_overlay_YFWQQj",
     "1741985122bf72e74a",
