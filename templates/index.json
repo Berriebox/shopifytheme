@@ -456,7 +456,7 @@
         "full_width": true,
         "subheading": "",
         "title": "",
-        "content": "<p><a href=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\" title=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\"><strong>Découvrez pourquoi l'iPhone 12 est interdit en France à cause des ondes électromagnétiques. Lisez l'article complet sur TF1 pour en savoir plus</strong></a></p>",
+        "content": "<p><a href=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\" title=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\"><strong>Découvrez pourquoi l'iPhone 12 n'est plus authorisé en France à cause des ondes électromagnétiques. Lisez l'article complet sur TF1 pour en savoir plus</strong></a></p>",
         "before_image": "shopify://shop_images/iphone-1eea48-7eb6d9-0_1x_c7350280-e40b-4972-8235-6a7e5cf421c2.png",
         "after_image": "shopify://shop_images/iphone-1eea48-7eb6d9-0_1x_c7350280-e40b-4972-8235-6a7e5cf421c2.png",
         "expand_image": false,
@@ -482,6 +482,13 @@
           "settings": {
             "title": "Quel est le délai de livraison pour le Neutro Wave Pro ?",
             "content": "<p>Le délai de livraison est de <strong>6 à 10 jours ouvrés</strong>, en fonction de votre emplacement. Veuillez noter que le traitement de la commande peut prendre jusqu'à <strong>2 jours</strong> avant l'expédition. De plus, le délai de livraison peut également dépendre du succès de la commande et des conditions logistiques.</p>"
+          }
+        },
+        "item_Pw3jCN": {
+          "type": "item",
+          "settings": {
+            "title": "Sur quels produits puis-je utiliser les autocollants Neuro Wave Pro ?",
+            "content": "<p>Voici quelques exemples de produits compatibles :</p><ul><li><strong>Téléphones mobiles</strong> (smartphones, tablettes)</li><li><strong>Ordinateurs portables</strong> et <strong>tablettes</strong></li><li><strong>Ordinateurs de bureau</strong></li><li><strong>Routeurs Wi-Fi</strong></li><li><strong>Montres connectées</strong> et autres appareils portables</li><li><strong>Appareils Bluetooth</strong> (écouteurs, haut-parleurs)</li><li><strong>Appareils électroménagers</strong> (micro-ondes, etc.)</li></ul><p>Veuillez vous assurer que la surface de l'appareil est propre et sèche avant d'appliquer l'autocollant pour garantir une meilleure adhésion.</p>"
           }
         },
         "item_HTQDDr": {
@@ -536,6 +543,7 @@
       },
       "block_order": [
         "item_c7jHMX",
+        "item_Pw3jCN",
         "item_HTQDDr",
         "item_px6qzf",
         "item_nNVr3k",
