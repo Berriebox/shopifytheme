@@ -574,6 +574,21 @@
         "accordion_text_color": ""
       }
     },
+    "image_with_text_overlay_iaRz9a": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Le_crane_d_un_enfant_absorbe_10_fois_des_ondes_q_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "contact_HFrwR8": {
       "type": "contact",
       "settings": {
@@ -607,6 +622,7 @@
     "tabs_b77WEw",
     "before_after_image_3rVUH4",
     "faq_k4wyXq",
+    "image_with_text_overlay_iaRz9a",
     "contact_HFrwR8"
   ]
 }
