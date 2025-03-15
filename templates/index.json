@@ -386,9 +386,9 @@
         "full_width": false,
         "product": "neuro-wave™-proguard-6pcs-stickers-anti-radiation",
         "desktop_media_width": 55,
-        "desktop_media_layout": "grid_highlight",
+        "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "dots",
+        "mobile_carousel_control": "thumbnails",
         "enable_video_autoplay": false,
         "enable_video_looping": false,
         "enable_image_zoom": true,
@@ -407,7 +407,7 @@
           "type": "tab",
           "settings": {
             "title": "Caractéristiques",
-            "content": "<p>Chaque boîte contient <strong>6 stickers</strong> auto-adhésifs, faciles à appliquer sur divers appareils électroniques.</p><p>Discrets et légers, ils ne modifient pas l’esthétique des appareils tout en offrant une protection invisible.</p><p>.</p><h4><em><strong>Composition du sticker:</strong></em></h4><ul><li><strong>Éléments minéraux japonais</strong></li><li><strong>32 couches d'ions négatifs</strong></li><li><strong>Infrarouge lointain</strong></li><li><strong>Minéraux de germanium</strong></li><li><strong>Matériau absorbant</strong></li><li><strong>Autocollant auto-adhésif</strong></li></ul><p><br/><br/><br/><br/></p><p><br/><br/><br/><br/><br/><br/></p><p><br/></p>",
+            "content": "<p>Chaque boîte contient <strong>6 stickers</strong> auto-adhésifs, faciles à appliquer sur divers appareils électroniques.</p><p>Discrets et légers, ils ne modifient pas l’esthétique des appareils tout en offrant une protection invisible.</p><p>.</p><h4><em><strong>Composition du sticker:</strong></em></h4><ul><li><strong>Éléments minéraux japonais</strong></li><li><strong>32 couches d'ions négatifs</strong></li><li><strong>Infrarouge lointain</strong></li><li><strong>Minéraux de germanium</strong></li><li><strong>Matériau absorbant</strong></li><li><strong>Autocollant auto-adhésif</strong><br/></li></ul>",
             "page": ""
           }
         },
@@ -423,7 +423,7 @@
           "type": "tab",
           "settings": {
             "title": "Service client 7J/7",
-            "content": "<p>Notre service client est à votre écoute 7J/7.<br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@neurowave.com</p>",
+            "content": "<p><strong>Notre service client est à votre écoute 7J/7.</strong><br/></p><p>Vous pouvez nous contacter par en utilisant l'onglet \"Contact\" de notre boutique ou par email à l'adresse contact@neurowave.com</p>",
             "page": ""
           }
         }
@@ -458,11 +458,11 @@
         "after_image": "shopify://shop_images/iphone-1eea48-7eb6d9-0_1x_c7350280-e40b-4972-8235-6a7e5cf421c2.png",
         "expand_image": false,
         "text_position": "center",
-        "before_after_text_position": "top",
+        "before_after_text_position": "bottom",
         "before_text": "",
         "after_text": "",
         "drag_initial_position": 100,
-        "background": "",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "before_text_color": "#ffffff",
@@ -471,118 +471,84 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "rich_text_JYNhRY": {
-      "type": "rich-text",
+    "faq_k4wyXq": {
+      "type": "faq",
       "blocks": {
-        "image_AQqJk3": {
-          "type": "image",
+        "item_c7jHMX": {
+          "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Le_crane_d_un_enfant_absorbe_10_fois_des_ondes_q_1.png",
-            "width_mode": "full_width",
-            "max_width": 600,
-            "mobile_max_width": 400
+            "title": "Quel est le délai de livraison pour le Neuro Wave Pro ?",
+            "content": "<p>Le délai de livraison est de <strong>6 à 10 jours ouvrés</strong>, en fonction de votre emplacement. Veuillez noter que le traitement de la commande peut prendre jusqu'à <strong>2 jours</strong> avant l'expédition. De plus, le délai de livraison peut également dépendre du succès de la commande et des conditions logistiques.</p>"
+          }
+        },
+        "item_HTQDDr": {
+          "type": "item",
+          "settings": {
+            "title": "Qu'est-ce que le Neuro Wave Pro ?",
+            "content": "<p>Le <strong>Neuro Wave Pro</strong> est fabriqué avec des matériaux conçus pour interagir avec les ondes électromagnétiques émises par vos appareils électroniques. Son objectif est de limiter l'exposition directe aux ondes pour offrir une tranquillité d'esprit.</p>"
+          }
+        },
+        "item_px6qzf": {
+          "type": "item",
+          "settings": {
+            "title": "Comment fonctionne un sticker Neuro Wave Pro ?",
+            "content": "<p>Le sticker est fabriqué avec des matériaux qui sont censés interagir avec les ondes électromagnétiques émises par vos appareils électroniques. En appliquant ce sticker, vous pouvez potentiellement limiter votre exposition directe aux ondes.</p>"
+          }
+        },
+        "item_nNVr3k": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les avantages d'utiliser le Neuro Wave Pro ?",
+            "content": "<p>Les utilisateurs peuvent trouver du confort en réduisant leur exposition aux ondes électromagnétiques émises par leurs appareils. Cependant, les effets peuvent varier d'une personne à l'autre et dépendent de l'utilisation.</p>"
+          }
+        },
+        "item_JMi7FQ": {
+          "type": "item",
+          "settings": {
+            "title": "Où puis-je appliquer le Neuro Wave Pro ?",
+            "content": "<p>Le <strong>Neuro Wave Pro</strong> peut être facilement appliqué sur tout type d'appareil électronique, tels que des smartphones, tablettes, ordinateurs portables, chargeurs et autres appareils électroniques.</p>"
+          }
+        },
+        "item_WBFAa8": {
+          "type": "item",
+          "settings": {
+            "title": "Le Neuro Wave Pro affecte-t-il les performances des appareils ?",
+            "content": "<p>Non, le <strong>Neuro Wave Pro</strong> est conçu pour être discret et ne perturbe ni la performance, ni la connectivité, ni la durée de vie de la batterie de vos appareils.</p>"
+          }
+        },
+        "item_aEfYTV": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps dure le Neuro Wave Pro ?",
+            "content": "<p>Le <strong>Neuro Wave Pro</strong> est fabriqué avec des matériaux de qualité qui sont conçus pour durer pendant une période prolongée (souvent 3 à 4 mois selons nos utilisateurs), en fonction de l'utilisation.</p>"
+          }
+        },
+        "item_EkFULj": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que l'efficacité du Neuro Wave Pro est prouvée ?",
+            "content": "<p>Le <strong>Neuro Wave Pro</strong> peut aider à réduire l'exposition aux ondes électromagnétiques, mais son efficacité peut varier d'une personne à l'autre. Il est important de noter qu'il ne s'agit pas d'une solution à 100% et il est recommandé de faire vos propres recherches pour voir si ce produit correspond à vos besoins.</p>"
           }
         }
       },
       "block_order": [
-        "image_AQqJk3"
+        "item_c7jHMX",
+        "item_HTQDDr",
+        "item_px6qzf",
+        "item_nNVr3k",
+        "item_JMi7FQ",
+        "item_WBFAa8",
+        "item_aEfYTV",
+        "item_EkFULj"
       ],
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "faq": {
-      "type": "faq",
-      "blocks": {
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
-      ],
-      "settings": {
-        "full_width": false,
         "subheading": "",
         "title": "FAQ",
         "content": "<p>Use this text to share information about your product or shipping policies.</p>",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
-    "accordion_content_JjFQXd": {
-      "type": "accordion-content",
-      "blocks": {
-        "item_77GFbC": {
-          "type": "item",
-          "settings": {
-            "title": "Question 1",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
-          }
-        },
-        "item_wqUEQ9": {
-          "type": "item",
-          "settings": {
-            "title": "Question 2",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
-          }
-        },
-        "item_HwpkFR": {
-          "type": "item",
-          "settings": {
-            "title": "Question 3",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_77GFbC",
-        "item_wqUEQ9",
-        "item_HwpkFR"
-      ],
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Heading",
-        "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -595,6 +561,26 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
+      }
+    },
+    "contact_HFrwR8": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
+        "title": "Une question?",
+        "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
+        "text_position": "center",
+        "contact_form_size": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     }
   },
@@ -609,8 +595,7 @@
     "featured-product",
     "tabs_b77WEw",
     "before_after_image_3rVUH4",
-    "rich_text_JYNhRY",
-    "faq",
-    "accordion_content_JjFQXd"
+    "faq_k4wyXq",
+    "contact_HFrwR8"
   ]
 }
