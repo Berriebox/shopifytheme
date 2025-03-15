@@ -329,6 +329,12 @@
             "size_chart_page": ""
           }
         },
+        "liquid_NgLHmg": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Adjust as needed */\n    padding-bottom: 10px; /* Adjust as needed */\n    background-color: #FFCCCC; /* Light red background */\n    display: inline-block; /* Make the background wrap only around the content */\n    padding-left: 10px; /* Optional: Adjust padding around the content */\n    padding-right: 10px; /* Optional: Adjust padding around the content */\n    border-radius: 5px; /* Optional: Add border radius for rounded corners */\n  }\n\n  .product__inventory svg {\n    width: 15px;\n    height: 15px;\n    vertical-align: middle; /* Align the SVG icon with the text */\n  }\n</style>\n\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\">\n  <svg aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(255, 0, 0, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(255, 0, 0)\"></circle>\n  </svg>\n  Stock restant: 7 boites\n</p>"
+          }
+        },
         "quantity-selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -354,6 +360,7 @@
         "separator",
         "description",
         "variant-picker",
+        "liquid_NgLHmg",
         "quantity-selector",
         "buy-buttons"
       ],
@@ -361,10 +368,10 @@
         "full_width": false,
         "product": "neuro-wave™-proguard-6pcs-stickers-anti-radiation",
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_bottom",
+        "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
+        "mobile_carousel_control": "dots",
+        "enable_video_autoplay": false,
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
