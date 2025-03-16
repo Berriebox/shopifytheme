@@ -134,7 +134,7 @@
             "column_size": "3",
             "title": "Géraldine H.",
             "heading_tag": "h4",
-            "content": "<p>\"J'ai utilisé le <strong>Neuro Wave Pro</strong> sur mon téléphone pendant quelques semaines. Je me sens plus à l'aise en sachant qu'il peut aider à réduire l'exposition aux ondes. Il est facile à appliquer, c'est un ajout positif à ma routine.\"</p>",
+            "content": "<p>\"J'ai utilisé le <strong>Neuro Wave Pro</strong> sur ma tablette et celle de mon enfant pendant quelques semaines. Je me sens plus à l'aise en sachant qu'il peut aider à réduire l'exposition aux ondes. Il est facile à appliquer, c'est un ajout positif à ma routine.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -279,6 +279,21 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "image_with_text_overlay_BMiPUg": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Sans_Neuro_Wave.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "featured-product": {
@@ -618,6 +633,7 @@
     "rich_text_xdPkjy",
     "image_with_text_overlay_YFWQQj",
     "rich_text_mhGQHg",
+    "image_with_text_overlay_BMiPUg",
     "featured-product",
     "tabs_b77WEw",
     "before_after_image_3rVUH4",
