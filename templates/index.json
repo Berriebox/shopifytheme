@@ -518,13 +518,6 @@
             "content": "<p>Voici quelques exemples de produits compatibles :</p><ul><li><strong>Téléphones mobiles</strong> (smartphones, tablettes)</li><li><strong>Ordinateurs portables</strong> et <strong>tablettes</strong></li><li><strong>Ordinateurs de bureau</strong></li><li><strong>Routeurs Wi-Fi</strong></li><li><strong>Montres connectées</strong> et autres appareils portables</li><li><strong>Appareils Bluetooth</strong> (écouteurs, haut-parleurs)</li><li><strong>Appareils électroménagers</strong> (micro-ondes, etc.)</li></ul><p>Veuillez vous assurer que la surface de l'appareil est propre et sèche avant d'appliquer l'autocollant pour garantir une meilleure adhésion.</p>"
           }
         },
-        "item_HTQDDr": {
-          "type": "item",
-          "settings": {
-            "title": "Comment le Neuro Wave Pro interagit-il avec les ondes?",
-            "content": "<p>Le <strong>Neuro Wave Pro</strong> est fabriqué avec des matériaux conçus pour interagir avec les ondes électromagnétiques émises par vos appareils électroniques. Son objectif est de limiter l'exposition directe aux ondes pour offrir une tranquillité d'esprit.</p>"
-          }
-        },
         "item_px6qzf": {
           "type": "item",
           "settings": {
@@ -571,7 +564,6 @@
       "block_order": [
         "item_c7jHMX",
         "item_Pw3jCN",
-        "item_HTQDDr",
         "item_px6qzf",
         "item_nNVr3k",
         "item_JMi7FQ",
