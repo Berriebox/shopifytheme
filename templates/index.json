@@ -296,6 +296,18 @@
         "overlay_opacity": 0
       }
     },
+    "custom_liquid_9K3nCd": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": ".\n.\n.\n.",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -509,7 +521,7 @@
         "item_HTQDDr": {
           "type": "item",
           "settings": {
-            "title": "Qu'est-ce que le Neutro Wave Pro ?",
+            "title": "Comment le Neuro Wave Pro interagit-il avec les ondes?",
             "content": "<p>Le <strong>Neuro Wave Pro</strong> est fabriqué avec des matériaux conçus pour interagir avec les ondes électromagnétiques émises par vos appareils électroniques. Son objectif est de limiter l'exposition directe aux ondes pour offrir une tranquillité d'esprit.</p>"
           }
         },
@@ -634,6 +646,7 @@
     "image_with_text_overlay_YFWQQj",
     "rich_text_mhGQHg",
     "image_with_text_overlay_BMiPUg",
+    "custom_liquid_9K3nCd",
     "featured-product",
     "tabs_b77WEw",
     "before_after_image_3rVUH4",
