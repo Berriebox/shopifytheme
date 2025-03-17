@@ -520,6 +520,13 @@
             "content": "<p>Le délai de livraison est de <strong>6 à 10 jours ouvrés</strong>, en fonction de votre emplacement. Veuillez noter que le traitement de la commande peut prendre jusqu'à <strong>2 jours</strong> avant l'expédition. De plus, le délai de livraison peut également dépendre du succès de la commande et des conditions logistiques.</p>"
           }
         },
+        "item_jehBJA": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-on le coller sur une coque de téléphone ?",
+            "content": "<p>Oui, c'est possible. Cependant, il est préférable de le coller à l'intérieur de la coque. </p>"
+          }
+        },
         "item_Pw3jCN": {
           "type": "item",
           "settings": {
@@ -572,6 +579,7 @@
       },
       "block_order": [
         "item_c7jHMX",
+        "item_jehBJA",
         "item_Pw3jCN",
         "item_px6qzf",
         "item_nNVr3k",
