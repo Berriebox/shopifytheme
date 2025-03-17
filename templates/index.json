@@ -380,6 +380,12 @@
             "payment_button_text_color": "#f0c417"
           }
         },
+        "liquid_feJH7X": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ".list-payment {\n    display: flex;\n    justify-content: center; /* Centre les logos /\n    align-items: center;\n    flex-wrap: nowrap; / Empêche le passage à la ligne /\n    gap: 10px; / Réduction de l'espace entre les logos /\n    padding: 5px;\n    background: transparent; / Suppression du fond /\n    border-radius: 0; / Plus de bordure arrondie /\n    border: none; / Suppression de la bordure /\n    margin: 20px 0;\n}\n\n.list-payment__item {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    width: 45px; / Taille uniforme /\n    height: 30px; / Hauteur ajustée /\n    transition: transform 0.2s ease-in-out, opacity 0.2s ease-in-out;\n}\n\n.list-paymentitem:hover {\n    transform: scale(1.1);\n    opacity: 0.8;\n}\n\n.list-paymentitem .icon {\n    width: 100%;\n    height: auto;\n    object-fit: contain; / Empêche les coupures /\n    background: transparent; / Garantit que les icônes restent sans fond */\n}"
+          }
+        },
         "image_YWeXGi": {
           "type": "image",
           "settings": {
@@ -409,6 +415,7 @@
         "liquid_NgLHmg",
         "quantity-selector",
         "buy-buttons",
+        "liquid_feJH7X",
         "image_YWeXGi",
         "image_EiWbtf"
       ],
@@ -608,6 +615,70 @@
         "overlay_opacity": 0
       }
     },
+    "1742222797c32fe687": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_card_carousel_section_CKzLQy": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-card-carousel-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "maxWidth": 1100,
+            "borderRadius": 8,
+            "itemsPerView": 4,
+            "mobileItemsPerView": 1,
+            "maxNumberOfCharacters": 100,
+            "imageRatio": "0.72",
+            "reviewerNameColor": "#000000",
+            "textColor": "#000000",
+            "itemBackgroundColor": "#ffffff",
+            "starsColor": "",
+            "starsBackgroundColor": "#ffffff",
+            "arrows_backgroundColor": "#FFFFFF",
+            "arrows_iconColor": "#9A9A9A",
+            "shadow": "offset-dark",
+            "border_active": false,
+            "border_width": 2,
+            "border_color": "#000000",
+            "productIds": ""
+          }
+        },
+        "loox_reviews_loox_gallery_carousel_section_qUgzrq": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-gallery-carousel-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "maxWidth": 1100,
+            "borderRadius": 60,
+            "itemsPerView": 5,
+            "mobileItemsPerView": 1,
+            "imageRatio": "1",
+            "reviewerNameColor": "#ffffff",
+            "starsColor": "#ffffff",
+            "arrows_backgroundColor": "#FFFFFF",
+            "arrows_iconColor": "#9A9A9A",
+            "shadow": "none",
+            "border_active": false,
+            "border_width": 2,
+            "border_color": "#000000",
+            "productIds": ""
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_card_carousel_section_CKzLQy",
+        "loox_reviews_loox_gallery_carousel_section_qUgzrq"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "contact_HFrwR8": {
       "type": "contact",
       "settings": {
@@ -644,6 +715,7 @@
     "before_after_image_3rVUH4",
     "faq_k4wyXq",
     "image_with_text_overlay_iaRz9a",
+    "1742222797c32fe687",
     "contact_HFrwR8"
   ]
 }
