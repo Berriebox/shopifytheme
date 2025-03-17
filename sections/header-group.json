@@ -28,6 +28,13 @@
             "url": ""
           }
         },
+        "message_4AxigL": {
+          "type": "message",
+          "settings": {
+            "text": "SOLDES FIN D'HIVER -50%",
+            "url": ""
+          }
+        },
         "message_fMd7iQ": {
           "type": "message",
           "settings": {
@@ -39,6 +46,7 @@
       "block_order": [
         "message",
         "message_djNB4B",
+        "message_4AxigL",
         "message_fMd7iQ"
       ],
       "settings": {
