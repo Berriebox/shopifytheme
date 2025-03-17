@@ -384,10 +384,10 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#f0c417",
+            "atc_button_background": "#00a341",
             "atc_button_text_color": "#000000",
-            "payment_button_background": "#f0c417",
-            "payment_button_text_color": "#f0c417"
+            "payment_button_background": "#00a341",
+            "payment_button_text_color": "#00a341"
           }
         },
         "liquid_feJH7X": {
@@ -634,8 +634,8 @@
             "itemBackgroundColor": "#ffffff",
             "starsColor": "",
             "starsBackgroundColor": "#ffffff",
-            "arrows_backgroundColor": "#FFFFFF",
-            "arrows_iconColor": "#9A9A9A",
+            "arrows_backgroundColor": "#ffffff",
+            "arrows_iconColor": "#9a9a9a",
             "shadow": "offset-dark",
             "border_active": false,
             "border_width": 2,
@@ -653,8 +653,8 @@
             "imageRatio": "1",
             "reviewerNameColor": "#ffffff",
             "starsColor": "#ffffff",
-            "arrows_backgroundColor": "#FFFFFF",
-            "arrows_iconColor": "#9A9A9A",
+            "arrows_backgroundColor": "#ffffff",
+            "arrows_iconColor": "#9a9a9a",
             "shadow": "none",
             "border_active": false,
             "border_width": 2,
