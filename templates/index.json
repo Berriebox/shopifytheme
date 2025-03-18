@@ -95,6 +95,53 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_xdPkjy": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_NgzCfy": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_E8qfGY": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Neutro Wave Pro ?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_NgzCfy",
+        "heading_E8qfGY"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_YFWQQj": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Ajouter_un_titre_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "press_DHkMMq": {
       "type": "press",
       "blocks": {
@@ -185,53 +232,6 @@
         "text_color": ""
       }
     },
-    "rich_text_xdPkjy": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_NgzCfy": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "heading_E8qfGY": {
-          "type": "heading",
-          "settings": {
-            "text": "Pourquoi choisir Neutro Wave Pro ?",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_NgzCfy",
-        "heading_E8qfGY"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image_with_text_overlay_YFWQQj": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_un_titre_1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "rich_text_mhGQHg": {
       "type": "rich-text",
       "blocks": {
@@ -279,21 +279,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_BMiPUg": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Sans_Neuro_Wave_1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "custom_liquid_9K3nCd": {
@@ -610,21 +595,6 @@
         "accordion_text_color": ""
       }
     },
-    "image_with_text_overlay_iaRz9a": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Le_crane_d_un_enfant_absorbe_10_fois_des_ondes_q_1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "17422583798546a49e": {
       "type": "apps",
       "blocks": {
@@ -682,18 +652,16 @@
   "order": [
     "image_with_text_overlay_JrWVcw",
     "logo_list_HmzKwL",
-    "press_DHkMMq",
-    "multi_column_rwVdTY",
     "rich_text_xdPkjy",
     "image_with_text_overlay_YFWQQj",
+    "press_DHkMMq",
+    "multi_column_rwVdTY",
     "rich_text_mhGQHg",
-    "image_with_text_overlay_BMiPUg",
     "custom_liquid_9K3nCd",
     "featured-product",
     "tabs_b77WEw",
     "before_after_image_3rVUH4",
     "faq_k4wyXq",
-    "image_with_text_overlay_iaRz9a",
     "17422583798546a49e",
     "contact_HFrwR8"
   ]
