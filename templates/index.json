@@ -174,8 +174,8 @@
       ],
       "settings": {
         "full_width": true,
-        "stack_on_mobile": true,
-        "gap": "medium",
+        "stack_on_mobile": false,
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
         "title": "Nos clients témoignent",
