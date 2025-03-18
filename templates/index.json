@@ -198,7 +198,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir Neutro Wave Pro ?",
-            "heading_tag": "h3",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -245,7 +245,7 @@
           "type": "heading",
           "settings": {
             "text": "Une technologie japonaise révolutionnaire",
-            "heading_tag": "h3",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
