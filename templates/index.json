@@ -272,6 +272,15 @@
             "max_width": 600,
             "mobile_max_width": 400
           }
+        },
+        "image_XDDURV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/bandicam2025-03-2215-54-26-579-ezgif.com-optimize.gif",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
         }
       },
       "block_order": [
@@ -279,7 +288,8 @@
         "image_GLaxj7",
         "heading_PVjJnH",
         "richtext_z8JUd7",
-        "image_3y9Qwr"
+        "image_3y9Qwr",
+        "image_XDDURV"
       ],
       "settings": {
         "full_width": true,
