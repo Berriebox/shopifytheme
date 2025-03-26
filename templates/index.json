@@ -15,8 +15,8 @@
         "heading_reGWMY": {
           "type": "heading",
           "settings": {
-            "text": "Protégez-vous des ondes électromagnétiques",
-            "heading_tag": "h1"
+            "text": "Des pieds lisses et éclatants en un instant!",
+            "heading_tag": "h2"
           }
         }
       },
@@ -28,8 +28,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre_14.png",
-        "mobile_image": "shopify://shop_images/Design_sans_titre_14.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -43,7 +41,6 @@
         "logo_kw7znF": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/AFNR_Logo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -51,7 +48,6 @@
         "logo_ipaKpm": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/640px-TF1_logo_2013.png",
             "logo_width": 120,
             "link": ""
           }
@@ -59,7 +55,6 @@
         "logo_UC9fhR": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/f6b793c6-7b7d-44e0-91ad-0e8cbb807052.png",
             "logo_width": 120,
             "link": ""
           }
@@ -67,7 +62,6 @@
         "logo_TRfVjB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/quantum-logo_700x215_d379a483-66b0-4912-92bf-0f2c41961e56.gif",
             "logo_width": 160,
             "link": ""
           }
@@ -134,7 +128,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Ajouter_un_titre_3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -177,7 +170,6 @@
         "item_ptdgRY": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/7bdfa39f-8ae8-48f2-838c-959dd4f2d70c.png",
             "column_size": "3",
             "title": "Géraldine H.",
             "heading_tag": "h4",
@@ -190,7 +182,6 @@
         "item_eNizgE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/75c2844e-59bf-4ea4-954f-3ffff120f736.png",
             "column_size": "3",
             "title": "Jean-Pierre B.",
             "heading_tag": "h4",
@@ -203,7 +194,6 @@
         "item_DLanAw": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/review3.png",
             "column_size": "3",
             "title": "Mathilde S.",
             "heading_tag": "h4",
@@ -267,7 +257,6 @@
         "image_3y9Qwr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/beforeafterneurowave.webp",
             "width_mode": "custom",
             "max_width": 600,
             "mobile_max_width": 400
@@ -276,7 +265,6 @@
         "image_XDDURV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/bandicam2025-03-2215-54-26-579-ezgif.com-optimize.gif",
             "width_mode": "custom",
             "max_width": 600,
             "mobile_max_width": 400
@@ -369,16 +357,9 @@
             "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Adjust as needed */\n    padding-bottom: 10px; /* Adjust as needed */\n    background-color: #FFCCCC; /* Light red background */\n    display: inline-block; /* Make the background wrap only around the content */\n    padding-left: 10px; /* Optional: Adjust padding around the content */\n    padding-right: 10px; /* Optional: Adjust padding around the content */\n    border-radius: 5px; /* Optional: Add border radius for rounded corners */\n  }\n\n  .product__inventory svg {\n    width: 15px;\n    height: 15px;\n    vertical-align: middle; /* Align the SVG icon with the text */\n  }\n</style>\n\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\">\n  <svg aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(255, 0, 0, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(255, 0, 0)\"></circle>\n  </svg>\n  Stock restant: 8 boîtes\n</p>"
           }
         },
-        "kaching_bundles_app_block_rWC3Un": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "image_YWeXGi": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NEURO_WAVE_PRO_2.png",
             "alignment": "start",
             "max_width": 500
           }
@@ -397,7 +378,6 @@
         "image_EiWbtf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/365205d3-c9e7-45bd-95f8-e241690914c6.png",
             "alignment": "start",
             "max_width": 500
           }
@@ -413,7 +393,6 @@
         "description",
         "variant-picker",
         "liquid_NgLHmg",
-        "kaching_bundles_app_block_rWC3Un",
         "image_YWeXGi",
         "buy-buttons",
         "image_EiWbtf"
@@ -490,8 +469,6 @@
         "subheading": "",
         "title": "",
         "content": "<p><a href=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\" title=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\"><strong>Découvrez pourquoi l'iPhone 12 n'est plus authorisé en France à cause des ondes électromagnétiques. Lisez l'article complet sur TF1 pour en savoir plus</strong></a></p>",
-        "before_image": "shopify://shop_images/Design_sans_titre_17.png",
-        "after_image": "shopify://shop_images/Design_sans_titre_17.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
@@ -609,23 +586,6 @@
     },
     "17422583798546a49e": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_QUtFMj": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 12,
-            "maxwidth": 1080,
-            "is_sample": false
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_QUtFMj"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
