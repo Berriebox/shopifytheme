@@ -145,35 +145,6 @@
         "overlay_opacity": 0
       }
     },
-    "press_DHkMMq": {
-      "type": "press",
-      "blocks": {
-        "quote_bBdxfj": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Je suis pret pour l'été!",
-            "show_rating": true,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_bBdxfj"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
     "multi_column_rwVdTY": {
       "type": "multi-column",
       "blocks": {
@@ -570,7 +541,6 @@
     "logo_list_HmzKwL",
     "rich_text_xdPkjy",
     "image_with_text_overlay_YFWQQj",
-    "press_DHkMMq",
     "multi_column_rwVdTY",
     "custom_liquid_9K3nCd",
     "featured-product",
