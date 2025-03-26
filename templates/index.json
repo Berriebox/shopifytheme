@@ -28,6 +28,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/depositphotos_212826338-stock-photo-perfect-clean-female-feet-beautiful.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -41,13 +42,15 @@
         "logo_kw7znF": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 200,
             "link": ""
           }
         },
         "logo_ipaKpm": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Elle.png",
             "logo_width": 120,
             "link": ""
           }
@@ -55,6 +58,7 @@
         "logo_UC9fhR": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -62,6 +66,7 @@
         "logo_TRfVjB": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
             "logo_width": 160,
             "link": ""
           }
@@ -101,7 +106,7 @@
         "heading_E8qfGY": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir Neutro Wave Pro ?",
+            "text": "Pourquoi choisir Piedlux Pro ?",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""

@@ -31,7 +31,7 @@
         "message_4AxigL": {
           "type": "message",
           "settings": {
-            "text": "SOLDES FIN D'HIVER -50%",
+            "text": "SOLDES DÉBUT PRINTEMPS -50%",
             "url": ""
           }
         },
@@ -64,7 +64,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/7e02a9b0-0105-4e26-a7e9-bfdb4335de74.png",
         "logo_max_width": 220,
         "logo_mobile_max_width": 170,
         "menu": "main-menu",
