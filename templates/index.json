@@ -29,39 +29,12 @@
         "heading_4AqNdV"
       ],
       "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "external_video_url": "",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
-    "image_with_text_overlay_JrWVcw": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_reGWMY": {
-          "type": "heading",
-          "settings": {
-            "text": "Des pieds lisses et éclatants en un instant!",
-            "heading_tag": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_reGWMY"
-      ],
-      "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": true,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Sandy_Golden_Vacation_Beach_Walk_Sunset_Animated_Video_Your_Story.svg",
-        "mobile_image": "shopify://shop_images/Sandy_Golden_Vacation_Beach_Walk_Sunset_Animated_Video_Your_Story.svg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "autoplay": true,
+        "video_size": "fill",
+        "video": "shopify://files/videos/Sandy Golden Vacation Beach Walk Sunset Animated Video Your Story (1).mp4",
+        "external_video_url": "",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
@@ -179,7 +152,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Rejoignez nos clients satisfaits et découvrez pourquoi ils nous attribuent une note parfaite ! Votre expérience compte pour nous.",
+            "content": "Je suis pret pour l'été!",
             "show_rating": true,
             "rating": 5
           }
@@ -659,7 +632,6 @@
   },
   "order": [
     "video_eKjJid",
-    "image_with_text_overlay_JrWVcw",
     "logo_list_HmzKwL",
     "rich_text_xdPkjy",
     "image_with_text_overlay_YFWQQj",
