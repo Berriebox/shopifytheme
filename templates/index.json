@@ -9,6 +9,36 @@
  */
 {
   "sections": {
+    "video_eKjJid": {
+      "type": "video",
+      "blocks": {
+        "play_3W6LPD": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_4AqNdV": {
+          "type": "heading",
+          "settings": {
+            "text": "Des pieds lisses et éclatants en un instant!",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_3W6LPD",
+        "heading_4AqNdV"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "external_video_url": "",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "image_with_text_overlay_JrWVcw": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -26,9 +56,10 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": false,
+        "enable_parallax": true,
         "image_size": "auto",
-        "image": "shopify://shop_images/depositphotos_212826338-stock-photo-perfect-clean-female-feet-beautiful.webp",
+        "image": "shopify://shop_images/Sandy_Golden_Vacation_Beach_Walk_Sunset_Animated_Video_Your_Story.svg",
+        "mobile_image": "shopify://shop_images/Sandy_Golden_Vacation_Beach_Walk_Sunset_Animated_Video_Your_Story.svg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -121,7 +152,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#ffffff",
+        "background": "#f1c6c6",
         "background_gradient": "",
         "text_color": ""
       }
@@ -627,6 +658,7 @@
     }
   },
   "order": [
+    "video_eKjJid",
     "image_with_text_overlay_JrWVcw",
     "logo_list_HmzKwL",
     "rich_text_xdPkjy",
