@@ -280,6 +280,12 @@
             "max_width": 280
           }
         },
+        "text_kGP7YR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>✨ Résultats de salon</p><p>❤️ Luxe abordable</p><p>🌟 Effect éclatant</p>"
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -303,6 +309,7 @@
         "variant-picker",
         "liquid_NgLHmg",
         "image_9AxRE7",
+        "text_kGP7YR",
         "buy-buttons"
       ],
       "settings": {
