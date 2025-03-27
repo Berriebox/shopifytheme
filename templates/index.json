@@ -296,6 +296,14 @@
             "payment_button_background": "#f0c417",
             "payment_button_text_color": "#f0c417"
           }
+        },
+        "image_NdTBN7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/OFFERT_4.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -310,7 +318,8 @@
         "image_9AxRE7",
         "text_kGP7YR",
         "liquid_NgLHmg",
-        "buy-buttons"
+        "buy-buttons",
+        "image_NdTBN7"
       ],
       "settings": {
         "full_width": false,
