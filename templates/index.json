@@ -32,7 +32,7 @@
         "full_width": true,
         "allow_transparent_header": false,
         "autoplay": true,
-        "video_size": "fill",
+        "video_size": "md",
         "video": "shopify://files/videos/Sandy Golden Vacation Beach Walk Sunset Animated Video Your Story (1).mp4",
         "external_video_url": "",
         "text_color": "#ffffff",
