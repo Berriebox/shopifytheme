@@ -276,7 +276,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/AIRBRUSH_FR.webp",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 280
           }
         },
