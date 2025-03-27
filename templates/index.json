@@ -176,6 +176,7 @@
         "item_ptdgRY": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/7bdfa39f-8ae8-48f2-838c-959dd4f2d70c.png",
             "column_size": "3",
             "title": "Géraldine H.",
             "heading_tag": "h4",
@@ -188,6 +189,7 @@
         "item_eNizgE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/75c2844e-59bf-4ea4-954f-3ffff120f736.png",
             "column_size": "3",
             "title": "Jean-Pierre B.",
             "heading_tag": "h4",
@@ -200,6 +202,7 @@
         "item_DLanAw": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/review3.png",
             "column_size": "3",
             "title": "Mathilde S.",
             "heading_tag": "h4",
@@ -475,6 +478,7 @@
         "subheading": "",
         "title": "",
         "content": "<p><a href=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\" title=\"https://www.tf1info.fr/high-tech/iphone-12-interdit-a-la-vente-emissions-ondes-apple-va-mettre-a-jour-son-appareil-en-france-2269875.html\"><strong>Découvrez pourquoi l'iPhone 12 n'est plus authorisé en France à cause des ondes électromagnétiques. Lisez l'article complet sur TF1 pour en savoir plus</strong></a></p>",
+        "before_image": "shopify://shop_images/Design_sans_titre_17.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
