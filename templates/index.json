@@ -9,32 +9,28 @@
  */
 {
   "sections": {
-    "video_eKjJid": {
-      "type": "video",
+    "image_with_text_overlay_JrWVcw": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "play_3W6LPD": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_4AqNdV": {
+        "heading_reGWMY": {
           "type": "heading",
           "settings": {
-            "text": "Des pieds lisses et éclatants avant l'été!",
-            "heading_tag": "h1"
+            "text": "Protegez vous des ondes éléctromagnetiques",
+            "heading_tag": "h2"
           }
         }
       },
       "block_order": [
-        "play_3W6LPD",
-        "heading_4AqNdV"
+        "heading_reGWMY"
       ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "lg",
-        "video": "shopify://files/videos/Sandy Golden Vacation Beach Walk Sunset Animated Video Your Story (1).mp4",
-        "external_video_url": "",
+        "enable_parallax": true,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Design_sans_titre_14.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
@@ -46,7 +42,6 @@
         "logo_kw7znF": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
             "logo_width": 200,
             "link": ""
           }
@@ -54,7 +49,6 @@
         "logo_ipaKpm": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Elle.png",
             "logo_width": 120,
             "link": ""
           }
@@ -62,7 +56,6 @@
         "logo_UC9fhR": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -70,7 +63,6 @@
         "logo_TRfVjB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
             "logo_width": 160,
             "link": ""
           }
@@ -89,7 +81,7 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 4,
-        "background": "#f5eeee",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -111,7 +103,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir Piedlux Pro ?",
-            "heading_tag": "h1",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -125,7 +117,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f5eeee",
+        "background": "#f1c6c6",
         "background_gradient": "",
         "text_color": ""
       }
@@ -137,7 +129,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Resultats_visibles_en_quelques_secondes.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -145,40 +136,69 @@
         "overlay_opacity": 0
       }
     },
-    "multi_column_hqHkA7": {
+    "press_DHkMMq": {
+      "type": "press",
+      "blocks": {
+        "quote_bBdxfj": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Rejoignez nos clients satisfaits et découvrez pourquoi ils nous attribuent une note parfaite ! Votre expérience compte pour nous.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_bBdxfj"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "multi_column_rwVdTY": {
       "type": "multi-column",
       "blocks": {
-        "item_YGgfrL": {
+        "item_ptdgRY": {
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Mathilde B.",
+            "title": "Géraldine H.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"J'ai utilisé le <strong>Neutro Wave Pro</strong> sur ma tablette et celle de mon enfant pendant quelques semaines. C'est facile à appliquer et discret. Je me sens plus tranquille, sachant qu'il peut aider à réduire l'exposition aux ondes.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_gCRdM6": {
+        "item_eNizgE": {
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Jessica R.",
+            "title": "Jean-Pierre B.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"J'ai essayé le <strong>Neutro Wave Pro</strong> pour réduire mon exposition aux ondes. Bien que les résultats varient d'une personne à l'autre, je trouve le produit facile à utiliser et discret. Cela me donne une certaine tranquillité d'esprit.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "item_QbVrCc": {
+        "item_DLanAw": {
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Nora T.",
+            "title": "Mathilde S.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"Je suis content d'avoir essayé le <strong>Neutro Wave Pro</strong>. Il est simple à utiliser et n'affecte pas la performance de mon téléphone. Je me sens plus tranquille en prenant des mesures pour limiter l'exposition aux ondes.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -186,19 +206,85 @@
         }
       },
       "block_order": [
-        "item_YGgfrL",
-        "item_gCRdM6",
-        "item_QbVrCc"
+        "item_ptdgRY",
+        "item_eNizgE",
+        "item_DLanAw"
       ],
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Ce qu'en pensent nos clientes",
+        "title": "Nos clients témoignent",
         "content": "",
-        "background": "#f5eeee",
+        "background": "#f0f0f0",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_mhGQHg": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_qf4hXM": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "image_GLaxj7": {
+          "type": "image",
+          "settings": {
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "heading_PVjJnH": {
+          "type": "heading",
+          "settings": {
+            "text": "Une technologie japonaise révolutionnaire",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_z8JUd7": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        },
+        "image_3y9Qwr": {
+          "type": "image",
+          "settings": {
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "image_XDDURV": {
+          "type": "image",
+          "settings": {
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        }
+      },
+      "block_order": [
+        "subheading_qf4hXM",
+        "image_GLaxj7",
+        "heading_PVjJnH",
+        "richtext_z8JUd7",
+        "image_3y9Qwr",
+        "image_XDDURV"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -221,7 +307,7 @@
         "liquid_Qpm84W": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #F1A2A2;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n   Noté 4.8 par +1000 Clients !\n  </span>\n</div>\n\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #28a745;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n   Noté 4.8 par +1000 Clients !\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
         "title": {
@@ -266,24 +352,17 @@
             "size_chart_page": ""
           }
         },
-        "image_9AxRE7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/AIRBRUSH_FR.webp",
-            "alignment": "center",
-            "max_width": 280
-          }
-        },
-        "text_kGP7YR": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>✨ Résultats de salon</strong></p><p><strong>❤️ Luxe abordable</strong></p><p><strong>🌟 Effect éclatant</strong></p>"
-          }
-        },
         "liquid_NgLHmg": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Adjust as needed */\n    padding-bottom: 10px; /* Adjust as needed */\n    background-color: #FFCCCC; /* Light red background */\n    display: inline-block; /* Make the background wrap only around the content */\n    padding-left: 10px; /* Optional: Adjust padding around the content */\n    padding-right: 10px; /* Optional: Adjust padding around the content */\n    border-radius: 5px; /* Optional: Add border radius for rounded corners */\n  }\n\n  .product__inventory svg {\n    width: 15px;\n    height: 15px;\n    vertical-align: middle; /* Align the SVG icon with the text */\n  }\n</style>\n\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\">\n  <svg aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(255, 0, 0, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(255, 0, 0)\"></circle>\n  </svg>\n  Stock restant: 4 unités\n</p>"
+            "liquid": "<style>\n  .product__inventory {\n    padding-top: 10px; /* Adjust as needed */\n    padding-bottom: 10px; /* Adjust as needed */\n    background-color: #FFCCCC; /* Light red background */\n    display: inline-block; /* Make the background wrap only around the content */\n    padding-left: 10px; /* Optional: Adjust padding around the content */\n    padding-right: 10px; /* Optional: Adjust padding around the content */\n    border-radius: 5px; /* Optional: Add border radius for rounded corners */\n  }\n\n  .product__inventory svg {\n    width: 15px;\n    height: 15px;\n    vertical-align: middle; /* Align the SVG icon with the text */\n  }\n</style>\n\n<p class=\"product__inventory no-js-hidden\" id=\"Inventory-template--22213608309023__main\" role=\"status\">\n  <svg aria-hidden=\"true\">\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"7.5\" fill=\"rgba(255, 0, 0, 0.3)\"></circle>\n    <circle cx=\"7.5\" cy=\"7.5\" r=\"5\" stroke=\"rgb(255, 255, 255)\" stroke-width=\"1\" fill=\"rgb(255, 0, 0)\"></circle>\n  </svg>\n  Stock restant: 8 boîtes\n</p>"
+          }
+        },
+        "image_YWeXGi": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 500
           }
         },
         "buy-buttons": {
@@ -297,11 +376,10 @@
             "payment_button_text_color": "#f0c417"
           }
         },
-        "image_NdTBN7": {
+        "image_EiWbtf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/OFFERT_4.png",
-            "alignment": "center",
+            "alignment": "start",
             "max_width": 500
           }
         }
@@ -315,15 +393,14 @@
         "separator",
         "description",
         "variant-picker",
-        "image_9AxRE7",
-        "text_kGP7YR",
         "liquid_NgLHmg",
+        "image_YWeXGi",
         "buy-buttons",
-        "image_NdTBN7"
+        "image_EiWbtf"
       ],
       "settings": {
         "full_width": false,
-        "product": "piedlux-pro",
+        "product": "neutro-wave™-pro-stickers-anti-ondes",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "expanded",
@@ -546,11 +623,13 @@
     }
   },
   "order": [
-    "video_eKjJid",
+    "image_with_text_overlay_JrWVcw",
     "logo_list_HmzKwL",
     "rich_text_xdPkjy",
     "image_with_text_overlay_YFWQQj",
-    "multi_column_hqHkA7",
+    "press_DHkMMq",
+    "multi_column_rwVdTY",
+    "rich_text_mhGQHg",
     "custom_liquid_9K3nCd",
     "featured-product",
     "tabs_b77WEw",

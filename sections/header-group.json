@@ -54,7 +54,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 14,
-        "background": "#f1a2a2",
+        "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -64,7 +64,6 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/PiedLux_2.png",
         "logo_max_width": 210,
         "logo_mobile_max_width": 170,
         "menu": "main-menu",
