@@ -42,6 +42,7 @@
         "logo_kw7znF": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/640px-TF1_logo_2013.png",
             "logo_width": 200,
             "link": ""
           }
@@ -49,6 +50,7 @@
         "logo_ipaKpm": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/quantum-logo_700x215_d379a483-66b0-4912-92bf-0f2c41961e56.gif",
             "logo_width": 120,
             "link": ""
           }
@@ -56,6 +58,7 @@
         "logo_UC9fhR": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/AFNR_Logo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -63,6 +66,7 @@
         "logo_TRfVjB": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/f6b793c6-7b7d-44e0-91ad-0e8cbb807052.png",
             "logo_width": 160,
             "link": ""
           }
