@@ -89,7 +89,7 @@
         "content": "",
         "text_alignment": "center",
         "items_per_row": 4,
-        "background": "",
+        "background": "#f5eeee",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -125,7 +125,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f0f0f0",
+        "background": "#f5eeee",
         "background_gradient": "",
         "text_color": ""
       }
@@ -198,7 +198,7 @@
         "subheading": "",
         "title": "Ce qu'en pensent nos clientes",
         "content": "",
-        "background": "",
+        "background": "#f5eeee",
         "background_gradient": "",
         "text_color": ""
       }
