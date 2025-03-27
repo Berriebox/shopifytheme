@@ -106,7 +106,7 @@
         "heading_E8qfGY": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir Piedlux Pro ?",
+            "text": "Pourquoi choisir Neutro Wave Pro ?",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -121,7 +121,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#f1c6c6",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": ""
       }
@@ -133,6 +133,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Ajouter_un_titre_3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
